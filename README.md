@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?text=Hello Everyone!👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://raw.githubusercontent.com/liliyanasabri/liliyanasabri/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20Everyone!%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 
 <h3 align="center">
@@ -7,12 +11,12 @@
 </h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdobzl6dzBvNDJvNXRyMTcwMmpnMWJlbHNqZGMxM250cnN2amwxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gxu8FbZCjtuFWn18cK/giphy.gif" alt="Animated GIF" width=300/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdobzl6dzBvNDJvNXRyMTcwMmpnMWJlbHNqZGMxM250cnN2amwxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gxu8FbZCjtuFWn18cK/giphy.gif" alt="Animated GIF" width=200/>
 </p>
 
-<h5>
+<h4>
     ⌨️ A Little Bit About Me and My Interests
-</h5>
+</h4>
 
 ```yaml
 education:
@@ -30,14 +34,14 @@ fields_of_interests:
     - Full-Stack Development
     - System Design
 
-fun_fact: 
-  I enjoy building projects that combine data,
-  AI, and great user experiences.
+fun_fact:
+    I enjoy building products where data, AI,
+    and intuitive user experiences come together.
 ```
 
-<h5>
+<h4>
     🚀 Some Tools I Have Used and Learned
-</h5>
+</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -65,8 +69,6 @@ fun_fact:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original-wordmark.svg" alt="netlify" width="40" height="40"/>
 </p>
 
-
-![Snake animation](https://github.com/liliyanasabri/liliyanasabri/blob/output/github-contribution-grid-snake.svg)
 
 
 
