@@ -1,7 +1,7 @@
 <!-- GitHub BIO -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20Everyone!%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-    💻 Lili here — welcome to my GitHub!
+    Lili here — welcome to my GitHub!
 </h2>
 
 <p align="center">
@@ -42,9 +42,10 @@ currently_building:
 fields_of_interests:
     - Analytics
     - Data Engineering
-    - Generative AI
+    - Machine Learning
     - Full-Stack Development
     - System Design
+    - Generative AI
 
 fun_fact:
     I enjoy building products where data, AI,
